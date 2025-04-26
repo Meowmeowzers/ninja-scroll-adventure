@@ -1,11 +1,11 @@
 {
-    "name": "NinjaScrollAdventure",
-    "short_name": "NinjaScrollAdventure",
+    "name": "Ninja Scroll Adventure",
+    "short_name": "Ninja Scroll Adventure",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "",
+    "description": "A 2D top down action-adventure game made in Unity.",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
